@@ -1,0 +1,52 @@
+name,id,population,rate
+Alabama,01,3399775,15
+Alaska,02,460997,9
+Arizona,04,4083287,13
+Arkansas,05,2044669,14
+California,06,26029840,23
+Colorado,08,3385807,10
+Connecticut,09,2668989,9
+Delaware,10,618525,11
+District of Columbia,11,425630,19
+Florida,12,13040318,20
+Georgia,13,6365942,17
+Hawaii,15,944472,16
+Idaho,16,1000313,11
+Illinois,17,9507861,13
+Indiana,18,4633843,8
+Iowa,19,2249427,7
+Kansas,20,2048059,8
+Kentucky,21,3202516,12
+Louisiana,22,3313847,16
+Maine,23,1036269,7
+Maryland,24,4190921,11
+Massachusetts,25,5096670,10
+Michigan,26,7629134,8
+Minnesota,27,3852097,6
+Mississippi,28,2116087,16
+Missouri,29,4321763,7
+Montana,30,704494,9
+Nebraska,31,1310211,7
+Nevada,32,1668489,16
+New Hampshire,33,995072,6
+New Jersey,34,6610051,17
+New Mexico,35,1394621,16
+New York,36,15058111,22
+North Carolina,37,6278385,14
+North Dakota,38,489045,6
+Ohio,39,815916,9
+Oklahoma,40,2696155,12
+Oregon,41,2713872,10
+Pennsylvania,42,9561844,13
+Rhode Island,44,832138,8
+South Carolina,45,3098822,15
+South Dakota,46,572209,7
+Tennessee,47,4439666,13
+Texas,48,15936279,19
+Utah,49,1638079,9
+Vermont,50,485416,7
+Virginia,51,5522625,12
+Washington,53,4641680,10
+West Virginia,54,1418672,13
+Wisconsin,55,4185290,7
+Wyoming,56,382009,9
